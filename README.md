@@ -1,3 +1,8 @@
+## Google Play
+
+<a href="PLAY_STORE_LINK">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="220">
+</a>
 <p align="center">
   <img src="https://cepterminal.cepbarkod.com/logo.png" width="180" alt="CepTerminal Logo">
 </p>
