@@ -2,7 +2,7 @@
 
 👉 Windows Helper
 
-https://cepterminal.cepbarkod.com/downloads/CepTerminalSetup.exe
+https://cepterminal.cepbarkod.com/downloads/CepTerminalSetup.zip
 ## Google Play
 
 <a href="PLAY_STORE_LINK">
