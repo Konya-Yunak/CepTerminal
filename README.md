@@ -1,3 +1,8 @@
+## Download
+
+👉 Windows Helper
+
+https://cepterminal.cepbarkod.com/downloads/CepTerminalSetup.exe
 ## Google Play
 
 <a href="PLAY_STORE_LINK">
