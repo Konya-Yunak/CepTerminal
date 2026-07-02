@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cepterminal.cepbarkod.com/logo.png" width="190" alt="CepTerminal Logo">
+  <img src="https://cepterminal.cepbarkod.com/logo.png" width="170" alt="CepTerminal Logo">
 </p>
 
 <h1 align="center">CepTerminal</h1>
@@ -10,31 +10,27 @@
 
 <p align="center">
   <a href="https://cepterminal.cepbarkod.com/downloads/CepTerminalSetup.zip">
-    <img src="https://img.shields.io/badge/Windows%20Helper-Download-blue?style=for-the-badge&logo=windows" alt="Download Windows Helper">
+    <img src="https://img.shields.io/badge/Windows%20Helper-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   </a>
-  &nbsp;
   <a href="PLAY_STORE_LINK">
-    <img src="https://img.shields.io/badge/Google%20Play-Available-green?style=for-the-badge&logo=googleplay" alt="Google Play">
+    <img src="https://img.shields.io/badge/Google%20Play-Available-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/App%20Store-Coming%20Soon-lightgrey?style=for-the-badge&logo=apple" alt="App Store Coming Soon">
+  <img src="https://img.shields.io/badge/App%20Store-Coming%20Soon-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
 ---
 
 ## Features
 
-- 📱 Android phone as a barcode scanner
-- 💻 Windows Helper application
-- 📡 Wireless scanning over Wi-Fi
-- ⌨️ Instant keyboard HID input
-- 📷 QR code pairing
-- 📊 Works with Excel
-- 🏪 Compatible with POS systems
-- 📦 ERP and inventory software support
-- 🌍 Turkish & English
+- Android phone as a barcode scanner
+- Windows Helper application
+- Wireless scanning over Wi-Fi
+- Instant keyboard HID input
+- QR code pairing
+- Works with Excel, POS, ERP and inventory software
+- Turkish & English interface
 
-## Official Website
+## Website
 
 https://cepterminal.cepbarkod.com
 
